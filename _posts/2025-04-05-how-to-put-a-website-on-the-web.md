@@ -2,6 +2,8 @@
 layout: post
 title: "How to put a website on the web"
 date: 2025-04-05 9:00:00
+tags: [blog, server, jekyll, tutorial, web]
+categories: [technology, programming]
 ---
 
 # **How to Put a Website Online for Free**
