@@ -96,7 +96,6 @@ theme_mode: dark # [light | dark]
 #
 # e.g. 'https://cdn.com'
 cdn:
-
 # the avatar on sidebar, support local or CORS resources
 avatar: https://avatars.githubusercontent.com/u/96453117?s=400&u=04b9102c73a044b1ca2e26dac3fac5fa76f292c2&v=4
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
